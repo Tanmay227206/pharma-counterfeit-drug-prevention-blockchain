@@ -85,21 +85,6 @@ Manufacturer → Distributor → Wholesaler → Pharmacy → Patient
 Every transaction is stored on the blockchain to ensure transparency and tamper-proof tracking.
 
 ---
-
-## 📷 Screenshots
-
-### Login Page
-
-![Login](Screenshots/login.png)
-
-### Admin Dashboard
-
-![Dashboard](Screenshots/dashboard.png)
-
-### Medicine Tracking
-
-![Tracking](Screenshots/tracking.png)
-
 ---
 
 ## 🚀 Installation Steps
